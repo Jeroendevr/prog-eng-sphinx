@@ -13,7 +13,7 @@ A Programming Engineer working with Python and Visual Basic for Applications (in
 
 ```{toctree}
 :maxdepth: 2
-:caption: Contents
+:caption: Other
 
 contact.md
 procedure.md
