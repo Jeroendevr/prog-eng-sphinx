@@ -1,6 +1,14 @@
 # Programming Engineer Website 
 
-## Welcome to Programming Engineer Website's
+A Programming Engineer working with Python and Visual Basic for Applications (in combination with Excel) I am familiar with the following technologies; 
+
+- Python
+- TypeScript
+- LabView
+- VisualBasic (for Applications)
+- Git
+- Markdown
+
 
 
 ```{toctree}
@@ -8,6 +16,7 @@
 :caption: Contents
 
 contact.md
+procedure.md
 ```
 
 
