@@ -12,7 +12,7 @@ A Programming Engineer, a word function title I made up myself 😉. It is a ama
 - Markdown
 
 ## MaxQ Analytics
-Within the domain of Data Engineering and Buisness Intelligence I work with my colleagues at the [MaxQ analytics](https://www.maxqanalytics.io).
+Within the domain of Data Engineering and Buisness Intelligence I work with my colleagues at the [MaxQ analytics](https://www.maxqanalytics.io) team.
 
 ## Profiles
 - [GitHub](https://github.com/Jeroendevr)
