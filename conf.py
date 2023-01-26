@@ -30,3 +30,8 @@ html_theme_options = {
     "light_logo": "logo.png",
     "dark_logo": "logo.png",
 }
+
+# -- Language options ----------------------
+# https://www.sphinx-doc.org/en/master/usage/advanced/intl.html#internationalization
+locale_dirs = ['locale/']   # path is example but recommended.mak
+gettext_compact = False     # optional.
