@@ -12,7 +12,7 @@ A Programming Engineer, a function title I made up myself 😉. It is a amalgama
 - Markdown
 
 ## MaxQ Analytics
-Within the domain of Data Engineering and Business Intelligence I work with my colleagues at the [MaxQ analytics](https://www.maxqanalytics.io) team. Here we help businesses de 
+Within the domain of Data Engineering and Business Intelligence I work with my colleagues at the [MaxQ analytics](https://www.maxqanalytics.io) team. Here we help businesses gaining insight into their data which leads to fact based decision making.
 
 ## Profiles
 - [GitHub](https://github.com/Jeroendevr)
@@ -23,7 +23,7 @@ Within the domain of Data Engineering and Business Intelligence I work with my c
 
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 :caption: Other
 
 projects.md
