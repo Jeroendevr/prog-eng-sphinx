@@ -1,6 +1,6 @@
 # Programming Engineer Website 
 
-A Programming Engineer, a word function title I made up myself 😉. It is a amalgation of Computer Programming and Process Engineering. Mainly to point out that I work within two engineering fields. Currenctly I work freelance, if you are interested you can contact me. 
+A Programming Engineer, a function title I made up myself 😉. It is a amalgamation of Computer Programming and Process Engineering. Mainly to point out that I work within two engineering fields. Currently I work freelance, if you are interested you can contact me. 
 
 ## Technologies
 
@@ -12,7 +12,7 @@ A Programming Engineer, a word function title I made up myself 😉. It is a ama
 - Markdown
 
 ## MaxQ Analytics
-Within the domain of Data Engineering and Buisness Intelligence I work with my colleagues at the [MaxQ analytics](https://www.maxqanalytics.io) team.
+Within the domain of Data Engineering and Business Intelligence I work with my colleagues at the [MaxQ analytics](https://www.maxqanalytics.io) team. Here we help businesses de 
 
 ## Profiles
 - [GitHub](https://github.com/Jeroendevr)
