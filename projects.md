@@ -1,5 +1,14 @@
-# Hobby Projects
+# Projects
 
+## Excel Automation
+Most of the projects involve Microsoft Excel in one way or the other, as it is the go-to application on most enterprise systems to do calculations and data analysis. However functionality related to Excel can also be applied to other Office 365 apps like Access and Word. 
+### Custom Add-In
+![addin](img/officeaddin.png)
+
+### VBA
+Although for most 'real' software developers. VisualBasic for applications is not the primary tool of use. However most enterprise environments do use microsoft Excel as their primary data analysis tool. Because of this I have quite some experience in developing so called Macro's to automate repeating tasks especially focused on Excel (While applications like Word or Access are also possible)
+
+## Hobby Projects
 Some open project which I created and you can use or draw inspiration from. 
 
 ## Visual Studio Code

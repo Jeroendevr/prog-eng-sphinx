@@ -8,11 +8,11 @@
 
 ### Installeren benodigde paketten
 - Open conda commmand prompt
-- typ ```conda install --file ```
+- In prompt typ ```conda install --file ```
 - Sleep het `requirements.txt` bestand naar de prompt en druk vervolgens op enter
 
 ### Installeer addin
-
+- In conda command prompt typ
 - `xlwings addin install --file `
 - Sleep het `programmingengineer.xlam` bestand naar de prompt en druk vervolgens op enter
 

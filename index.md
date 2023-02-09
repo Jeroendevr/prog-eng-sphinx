@@ -35,10 +35,9 @@ Within the domain of Data Engineering and Business Intelligence I work with my c
 :maxdepth: 1
 :caption: Other
 
-projects.md
 contact.md
 procedure.md
-vba.md
+projects.md
 ```
 
 
