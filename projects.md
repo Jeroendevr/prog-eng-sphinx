@@ -3,6 +3,7 @@
 ## Excel Automation
 Most of the projects involve Microsoft Excel in one way or the other, as it is the go-to application on most enterprise systems to do calculations and data analysis. However functionality related to Excel can also be applied to other Office 365 apps like Access and Word. 
 ### Custom Add-In
+A custom Excel add-in developed for a client. It helped in the restructuring of a large dataset. The client saved around 3 hours a month in doing manual conversion.
 ![addin](img/officeaddin.png)
 
 ### VBA
