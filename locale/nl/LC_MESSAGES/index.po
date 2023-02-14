@@ -48,7 +48,7 @@ msgid ""
 "freelance, if you are interested you can contact me."
 msgstr ""
 "Programming Engineer, een functietitel die ik zelf bedacht heb 😉, het is een "
-"samenvoeging van Computer Programming en Process Engineering. Bedoel om "
+"samenvoeging van Computer Programming en Process Engineering. Bedoeld om "
 "duidelijk te maken dat ik binnen twee werkvelden werk. Momenteel werk ik "
 "als zelfstandige, indien u geinteresseerd bent kunt u contact met mij opnemen."
 
