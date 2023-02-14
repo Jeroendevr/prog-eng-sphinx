@@ -15,7 +15,7 @@ author = 'Jeroen de Vries'
 
 extensions = [
     "myst_parser",
-    "ablog",
+    
     'sphinx.ext.intersphinx',
     ]
 
