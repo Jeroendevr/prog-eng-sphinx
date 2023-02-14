@@ -1,0 +1,155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Jeroen de Vries
+# This file is distributed under the same license as the Programming
+# Engineer Website package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Programming Engineer Website \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-14 14:22+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../instructies.md:1
+msgid "Instructies installeren Excel automatiserings add-in"
+msgstr ""
+
+#: ../../instructies.md:2
+msgid "**Ondersteunend pakket voor excel automatisering**"
+msgstr ""
+
+#: ../../instructies.md:4
+msgid "Windows"
+msgstr ""
+
+#: ../../instructies.md:5
+msgid "Installeren miniconda"
+msgstr ""
+
+#: ../../instructies.md:6
+msgid ""
+"Download geschikt miniconda pakket - "
+"https://docs.conda.io/en/latest/miniconda.html"
+msgstr ""
+
+#: ../../instructies.md:7
+msgid "Gebruik standaard opties"
+msgstr ""
+
+#: ../../instructies.md:9
+msgid "Installeren benodigde paketten"
+msgstr ""
+
+#: ../../instructies.md:10
+msgid "Open conda commmand prompt"
+msgstr ""
+
+#: ../../instructies.md:11
+msgid "In prompt typ ```conda install --file ```"
+msgstr ""
+
+#: ../../instructies.md:12
+msgid ""
+"Sleep het `requirements.txt` bestand naar de prompt en druk vervolgens op"
+" enter"
+msgstr ""
+
+#: ../../instructies.md:14
+msgid "Installeer addin"
+msgstr ""
+
+#: ../../instructies.md:15
+msgid "In conda command prompt typ"
+msgstr ""
+
+#: ../../instructies.md:16
+msgid "`xlwings addin install --file `"
+msgstr ""
+
+#: ../../instructies.md:17
+msgid ""
+"Sleep het `programmingengineer.xlam` bestand naar de prompt en druk "
+"vervolgens op enter"
+msgstr ""
+
+#: ../../instructies.md:19
+msgid "Juiste config excel"
+msgstr ""
+
+#: ../../instructies.md:20
+msgid "Zet pythonpath naar pad folder met python/excel document"
+msgstr ""
+
+#: ../../instructies.md:22
+msgid "Scripts plaatsen op juiste plek"
+msgstr ""
+
+#: ../../instructies.md:23
+msgid ""
+"Plaats de inhoud van de folder met de scripts in de map "
+"`programmingengineer` in een map onder de gebruiker.  Dus als de "
+"gebruiker *Jan* heet dan een folder onder "
+"`C:\\\\Users\\Jan\\programmingengineer`"
+msgstr ""
+
+#: ../../instructies.md:26
+msgid "Gereed"
+msgstr ""
+
+#: ../../instructies.md:27
+msgid "De extensie is nu gereed om gebruikt te worden"
+msgstr ""
+
+#: ../../instructies.md:29
+msgid "Troubleshooting"
+msgstr ""
+
+#: ../../instructies.md:31
+msgid "Bestand is niet te slepen naar de Anaconda prompt"
+msgstr ""
+
+#: ../../instructies.md:33
+msgid ""
+"_Oplossing_ : Plaats het bestand eerst op het bureaublad om vervolgens "
+"het bestand vanaf het bureaublad naar de Anaconda prompt te slepen."
+msgstr ""
+
+#: ../../instructies.md:35
+msgid "Overig referentie"
+msgstr ""
+
+#: ../../instructies.md:36
+msgid "Windows on Arm specifiek via venv opztie"
+msgstr ""
+
+#: ../../instructies.md:37
+msgid "*Niet aanbevolen*"
+msgstr ""
+
+#: ../../instructies.md:39
+msgid ""
+"Waarschijnlijk werkt de Anaconda distributie nog niet wegens python "
+"3.11.1 in beta.  Daarom venv aanmaken"
+msgstr ""
+
+#: ../../instructies.md:42
+msgid ""
+"Om in shell te activeren dient script settings beleid in windows "
+"aangepast te worden `set-executionpolicy RemoteSigned` Installeer via pip"
+" na activate"
+msgstr ""
+
+#: ../../instructies.md:46
+msgid ""
+"Set interpreter "
+"`C:\\Users\\hayer\\debugmodule\\venv\\Scripts\\pythonw.exe`"
+msgstr ""
+

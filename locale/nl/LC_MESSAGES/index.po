@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Jeroen de Vries
+# This file is distributed under the same license as the Programming
+# Engineer Website package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Programming Engineer Website \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-26 15:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../index.md:34
+msgid "Other"
+msgstr ""
+
+#: ../../index.md:1
+msgid "Programming Engineer Website"
+msgstr ""
+
+#: ../../index.md
+msgid "Freelance Software Engineer"
+msgstr ""
+
+#: ../../index.md
+msgid "python, software, developer, engineer, vba, visualbasic"
+msgstr ""
+
+#: ../../index.md
+msgid ""
+"python, software, developer, programmeur, ontwikkelaar, technoloog, vba, "
+"visualbasic"
+msgstr ""
+
+#: ../../index.md:12
+msgid ""
+"A Programming Engineer, a function title I made up myself 😉. It is a "
+"amalgamation of Computer Programming and Process Engineering. Mainly to "
+"point out that I work within two engineering fields. Currently I work "
+"freelance, if you are interested you can contact me."
+msgstr ""
+"Programming Engineer, een functietitel die ik zelf bedacht heb 😉, het is een "
+"samenvoeging van Computer Programming en Process Engineering. Bedoel om "
+"duidelijk te maken dat ik binnen twee werkvelden werk. Momenteel werk ik "
+"als zelfstandige, indien u geinteresseerd bent kunt u contact met mij opnemen."
+
+#: ../../index.md:14
+msgid "Technologies"
+msgstr ""
+
+#: ../../index.md:16
+msgid "Python"
+msgstr ""
+
+#: ../../index.md:17
+msgid "TypeScript"
+msgstr ""
+
+#: ../../index.md:18
+msgid "LabView"
+msgstr ""
+
+#: ../../index.md:19
+msgid "VisualBasic (for Applications)"
+msgstr ""
+
+#: ../../index.md:20
+msgid "Git"
+msgstr ""
+
+#: ../../index.md:21
+msgid "Markdown"
+msgstr ""
+
+#: ../../index.md:23
+msgid "MaxQ Analytics"
+msgstr ""
+
+#: ../../index.md:24
+msgid ""
+"Within the domain of Data Engineering and Business Intelligence I work "
+"with my colleagues at the [MaxQ analytics](https://www.maxqanalytics.io) "
+"team. Here we help businesses gaining insight into their data which leads"
+" to fact based decision making."
+msgstr ""
+
+#: ../../index.md:26
+msgid "Profiles"
+msgstr ""
+
+#: ../../index.md:27
+msgid "[GitHub](https://github.com/Jeroendevr)"
+msgstr ""
+
+#: ../../index.md:28
+msgid "[LinkedIn](https://www.linkedin.com/in/jeroen-de-vries-014086224)"
+msgstr ""
+
+#: ../../index.md:29
+msgid "[StackOverflow](https://stackoverflow.com/users/4465153/jeroendv)"
+msgstr ""
+
