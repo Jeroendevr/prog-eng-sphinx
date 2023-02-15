@@ -28,8 +28,13 @@ Within the domain of Data Engineering and Business Intelligence I work with my c
 - [LinkedIn](https://www.linkedin.com/in/jeroen-de-vries-014086224)
 - [StackOverflow](https://stackoverflow.com/users/4465153/jeroendv)
 
+```{toctree}
+:maxdepth: 1
+:caption: Articles
 
+blog/articles-english.md
 
+```
 
 ```{toctree}
 :maxdepth: 1
