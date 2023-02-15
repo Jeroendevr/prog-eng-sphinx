@@ -1,9 +1,12 @@
 # Overview of Excel Development tools
 
+```{attention}
+The following blog post is Work in Progress
 ```{note}
 Author: Jeroen de Vries  
 Date Posted: 15-feb-2023
 ```
+
 
 
 When working with Excel at some point it becomes easier to do you work with additional tools. While most of the work that is done within excel can be done within a plethora of other applicaiton and programming languages it is actively used. Within Europe it has a market share of over 90% in the corporate and govermental enviroment. No wonder there are some many tools created around Microsofts Excel application. In this article I'll summarize all the tools around Excel for developers and users that invole some kind of programming. And I'll try to group them within distict catergories. 
@@ -54,8 +57,30 @@ The selection for this paragraph is based on the idea that the user or the devel
 
 
 ### Python
-### xlwings
+#### xlwings
+Even with all the tools to make VBA easier some basic programming features may still lack for example easy version control. One way I have dealt with this is the use of xlwings package. Create python functions as you would reguraly do in a seperate python file and call those functions from within Excel. This benefits me with 
+- version control
+- freedom of editor as I can choose whatever editor supports python
+- extensive use of libraries
+  - Python has a vast ecosystem of packages with data-analyisis, plotting, interactive use and machine learning
 
+When deploying the package for users, a add-in can be generated for a fee a 1-click installer can be provied as well. 
+
+Even when developing within VBA I found myself using the xlwings package creating unittests (although Rubberduck provides a feature to execute unittests within VBA itself). Small example can be found on the [xlwings blog](https://www.xlwings.org/blog/unittests-for-microsoft-excel)
+
+Open source and paid license for additional features. 
+
+### .Net using languages
+.Net is a framework maintained by Microsoft and mainly used for Microsofts specific platforms and apps. For this platform there is a package manager called [NuGet](https://www.nuget.org). Which enables the developer to reuse code created by others within your apps. The following add-ins Query storm and SharpCells can make use of these packages. 
+
+#### C#
+[Query Storm](https://querystorm.com) is a add-in that lets you write C# code within Excel. Provides it's own runtime for easier installation for end users. 
+![Query Storm Interface](../img/cs_querying.gif)
+
+#### F#
+[Sharp cells](https://www.sharpcells.com) is a add-in that lets you write F# code within Excel. Also possible to use .Net libraries and call dll from the excel workbook. As a prerequisite it depends on the .Net SDK which could make it a little bit more difficult to use for non developping users compared to C#.
+
+![Sharp Cells UDF Hello](../img/sc_udf_hello.gif)
 
 
 
