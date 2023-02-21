@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Programming Engineer Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-26 15:10+0100\n"
+"POT-Creation-Date: 2023-02-21 12:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.11.0\n"
 
-#: ../../index.md:34
+#: ../../index.md:31
+msgid "Articles"
+msgstr ""
+
+#: ../../index.md:39
 msgid "Other"
 msgstr ""
 
@@ -40,6 +44,10 @@ msgid ""
 "visualbasic"
 msgstr ""
 
+#: ../../index.md:10
+msgid "Voor Nederlands klik [hier](https://programming-engineer.nl/nl)"
+msgstr ""
+
 #: ../../index.md:12
 msgid ""
 "A Programming Engineer, a function title I made up myself 😉. It is a "
@@ -47,10 +55,11 @@ msgid ""
 "point out that I work within two engineering fields. Currently I work "
 "freelance, if you are interested you can contact me."
 msgstr ""
-"Programming Engineer, een functietitel die ik zelf bedacht heb 😉, het is een "
-"samenvoeging van Computer Programming en Process Engineering. Bedoeld om "
-"duidelijk te maken dat ik binnen twee werkvelden werk. Momenteel werk ik "
-"als zelfstandige, indien u geinteresseerd bent kunt u contact met mij opnemen."
+"Programming Engineer, een functietitel die ik zelf bedacht heb 😉, het is "
+"een samenvoeging van Computer Programming en Process Engineering. Bedoeld"
+" om duidelijk te maken dat ik binnen twee werkvelden werk. Momenteel werk"
+" ik als zelfstandige, indien u geinteresseerd bent kunt u contact met mij"
+" opnemen."
 
 #: ../../index.md:14
 msgid "Technologies"
