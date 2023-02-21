@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Programming Engineer Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-21 12:47+0100\n"
+"POT-Creation-Date: 2023-02-21 13:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../index.md:31
 msgid "Articles"
-msgstr ""
+msgstr "Artikelen"
 
 #: ../../index.md:39
 msgid "Other"
@@ -45,7 +45,9 @@ msgid ""
 msgstr ""
 
 #: ../../index.md:10
-msgid "Voor Nederlands klik [hier](https://programming-engineer.nl/nl)"
+msgid ""
+"Voor Nederlands klik [hier](https://www.programming-engineer.nl/nl), For "
+"English click [here](https://www.programming-engineer.nl/)"
 msgstr ""
 
 #: ../../index.md:12
@@ -70,15 +72,15 @@ msgid "Python"
 msgstr ""
 
 #: ../../index.md:17
-msgid "TypeScript"
+msgid "VisualBasic (for Applications) (Office Automation)"
 msgstr ""
 
 #: ../../index.md:18
-msgid "LabView"
+msgid "TypeScript"
 msgstr ""
 
 #: ../../index.md:19
-msgid "VisualBasic (for Applications)"
+msgid "LabView"
 msgstr ""
 
 #: ../../index.md:20
@@ -100,6 +102,10 @@ msgid ""
 "team. Here we help businesses gaining insight into their data which leads"
 " to fact based decision making."
 msgstr ""
+"Binnen het domein Data Engineering en Business Intelligens werk ik met "
+"collega's bij [MaxQ analytics](https://www.maxqanalytics.io) Bij MaxQ "
+"helpen wij bedrijven en instellingen inzicht te genereren in de "
+"datastromen, welke leidentot door feiten gesteunde beslissingen"
 
 #: ../../index.md:26
 msgid "Profiles"
@@ -116,4 +122,10 @@ msgstr ""
 #: ../../index.md:29
 msgid "[StackOverflow](https://stackoverflow.com/users/4465153/jeroendv)"
 msgstr ""
+
+#~ msgid "Voor Nederlands klik [hier](https://programming-engineer.nl/nl)"
+#~ msgstr ""
+
+#~ msgid "VisualBasic (for Applications)"
+#~ msgstr ""
 

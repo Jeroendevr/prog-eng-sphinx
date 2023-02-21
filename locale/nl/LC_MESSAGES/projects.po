@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Programming Engineer Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-14 14:22+0100\n"
+"POT-Creation-Date: 2023-02-21 14:07+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,40 +20,55 @@ msgstr ""
 
 #: ../../projects.md:1
 msgid "Projects"
-msgstr ""
+msgstr "Projecten"
 
 #: ../../projects.md:3
 msgid "Excel Automation"
-msgstr ""
+msgstr "Excel Automatisering"
 
 #: ../../projects.md:4
 msgid ""
-"Most of the projects involve Microsoft Excel in one way or the other, as "
-"it is the go-to application on most enterprise systems to do calculations"
-" and data analysis. However functionality related to Excel can also be "
-"applied to other Office 365 apps like Access and Word."
+"A lot of the projects involve Microsoft Excel in one way or the other, as"
+" it is the go-to application on most enterprise systems to do "
+"calculations and data analysis. However functionality related to Excel "
+"can also be applied to other Office 365 apps like Access and Word."
 msgstr ""
+"In veel projecten speelt Microsoft Excel een rol logisch want in veel "
+"gevallen is Excel hét programma in het bedrijfsleven om berekeningen en "
+"data-analyse uit te voeren. Functionaliteit gerelateerd aan Excel kan ook"
+" gebruikt worden op andere Office 365 toepassingen zoals Access en Word."
 
 #: ../../projects.md:5
 msgid "Custom Add-In"
-msgstr ""
+msgstr "Add-in op maat"
 
 #: ../../projects.md:6
+msgid "Restructuring datasets"
+msgstr ""
+
+#: ../../projects.md:7
 msgid ""
-"A custom Excel add-in developed for a client. It helped in the "
-"restructuring of a large dataset. The client saved around 3 hours a month"
-" in doing manual conversion. ![addin](img/officeaddin.png)"
+"A custom Excel add-in developed for a client. In order to reduce "
+"administrative burden, the Add-in provides a restructuring of a large "
+"dataset. After restructuring the output could be used directly into it's "
+"workflow. Saving the client hours of manual work. "
+"![addin](img/officeaddin.png)"
 msgstr ""
+"Een op maat gemaakte Excel add-in ontwikkeld voor een klant. Om de administrative "
+"last te reduceren. The add-in zorgt voor de omzetting van een grote dataset. "
+"Na de omzetting kan het resultaat direct gebruikte worden in het bestaande "
+"werkproces. De klant bespaarde uren handmatig werk. "
+"![addin](img/officeaddin.png)"
 
-#: ../../projects.md:6
+#: ../../projects.md:7
 msgid "addin"
-msgstr ""
-
-#: ../../projects.md:9
-msgid "VBA"
-msgstr ""
+msgstr "addin"
 
 #: ../../projects.md:10
+msgid "VBA - VisualBasic for Applications"
+msgstr ""
+
+#: ../../projects.md:11
 msgid ""
 "Although for most 'real' software developers. VisualBasic for "
 "applications is not the primary tool of use. However most enterprise "
@@ -62,26 +77,30 @@ msgid ""
 "Macro's to automate repeating tasks especially focused on Excel (While "
 "applications like Word or Access are also possible)"
 msgstr ""
+"Hoewel de meeste 'echte' software ontwikkelaars, VBA niet een waardig "
+"ontwikkel platform is, wordt het in het bedrijfsleven als primaire data analyse tool "
+"gebruikt. Omdat het zoveel gebruikt wordt, heb ik aardig wat ervaring opgedaan "
+"in het ontwikkelen van zogenoemde macro's. Daarmee zijn herhaaldelijke stappen te automatiseren"
 
-#: ../../projects.md:12
+#: ../../projects.md:13
 msgid "Hobby Projects"
 msgstr ""
 
-#: ../../projects.md:13
+#: ../../projects.md:14
 msgid ""
 "Some open project which I created and you can use or draw inspiration "
 "from."
 msgstr ""
 
-#: ../../projects.md:15
+#: ../../projects.md:16
 msgid "Visual Studio Code"
 msgstr ""
 
-#: ../../projects.md:16
+#: ../../projects.md:17
 msgid "Theme extension"
 msgstr ""
 
-#: ../../projects.md:17
+#: ../../projects.md:18
 msgid ""
 "For this editor I have ported a TextMate Theme to Visual Studio Code. "
 "This theme is a dark theme so it is easy on the eyes and provides good "
@@ -89,7 +108,7 @@ msgid ""
 "programs."
 msgstr ""
 
-#: ../../projects.md:19
+#: ../../projects.md:20
 msgid ""
 "See [VSCode "
 "Marketplace](https://marketplace.visualstudio.com/items?itemName"
@@ -97,35 +116,35 @@ msgid ""
 "[source](https://github.com/Jeroendevr/birds-of-paradise-vscode)"
 msgstr ""
 
-#: ../../projects.md:21
+#: ../../projects.md:22
 msgid "Some benefits over the \"old\" textMate theme include :"
 msgstr ""
 
-#: ../../projects.md:22
+#: ../../projects.md:23
 msgid "Color Scheme matches complete interface"
 msgstr ""
 
-#: ../../projects.md:23
+#: ../../projects.md:24
 msgid ""
 "Better token definition leading to better readability. (Using more "
 "defined lexical tokens)"
 msgstr ""
 
-#: ../../projects.md:24
+#: ../../projects.md:25
 msgid "Support for Python Docstrings"
 msgstr ""
 
-#: ../../projects.md:25
+#: ../../projects.md:26
 msgid ""
 "Make use of Semantic Highlighting defined within Visual Studio Code (for "
 "use of classes and decorators)"
 msgstr ""
 
-#: ../../projects.md:27
+#: ../../projects.md:28
 msgid "This Site"
 msgstr ""
 
-#: ../../projects.md:28
+#: ../../projects.md:29
 msgid ""
 "Created with [Sphinx](https://www.sphinx-doc.org/en/master/) and the "
 "[Markedly](https://myst-parser.readthedocs.io/en/latest/) to simply "
@@ -134,4 +153,27 @@ msgid ""
 "helpful [blog article](https://www.errbufferoverfl.me/posts/2020/sphinx-"
 "blog-part-one/)."
 msgstr ""
+
+#~ msgid ""
+#~ "Most of the projects involve Microsoft"
+#~ " Excel in one way or the other,"
+#~ " as it is the go-to application"
+#~ " on most enterprise systems to do "
+#~ "calculations and data analysis. However "
+#~ "functionality related to Excel can also"
+#~ " be applied to other Office 365 "
+#~ "apps like Access and Word."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A custom Excel add-in developed "
+#~ "for a client. It helped in the "
+#~ "restructuring of a large dataset. The"
+#~ " client saved around 3 hours a "
+#~ "month in doing manual conversion. "
+#~ "![addin](img/officeaddin.png)"
+#~ msgstr ""
+
+#~ msgid "VBA"
+#~ msgstr ""
 
