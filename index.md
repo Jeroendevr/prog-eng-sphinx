@@ -7,8 +7,6 @@
    :keywords lan=nl: python, software, developer, programmeur, ontwikkelaar, technoloog, vba, visualbasic
 
 ```
-Voor Nederlands klik [hier](https://www.programming-engineer.nl/nl), For English click [here](https://www.programming-engineer.nl/)
-
 A Programming Engineer, a function title I made up myself 😉. It is a amalgamation of Computer Programming and Process Engineering. Mainly to point out that I work within two engineering fields. Currently I work freelance, if you are interested you can contact me. 
 
 ## Technologies
@@ -29,7 +27,7 @@ Within the domain of Data Engineering and Business Intelligence I work with my c
 - [StackOverflow](https://stackoverflow.com/users/4465153/jeroendv)
 
 ```{toctree}
-:maxdepth: 1
+:maxdepth: 2
 :caption: Articles
 
 blog/articles-english.md

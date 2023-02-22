@@ -15,7 +15,7 @@ author = 'Jeroen de Vries'
 
 extensions = [
     "myst_parser",
-    
+    'sphinx_sitemap',
     'sphinx.ext.intersphinx',
     ]
 
@@ -29,6 +29,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'README.md']
 
 html_theme = "furo"
 html_title = "Programming Engineer"
+html_baseurl = "https://www.programming-engineer.nl"
 html_static_path = ['_static']
 html_theme_options = {
     "light_logo": "logo.png",
