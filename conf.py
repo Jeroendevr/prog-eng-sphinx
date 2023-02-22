@@ -31,6 +31,7 @@ html_theme = "furo"
 html_title = "Programming Engineer"
 html_baseurl = "https://www.programming-engineer.nl"
 html_static_path = ['_static']
+html_extra_path = ['robots.txt']
 html_theme_options = {
     "light_logo": "logo.png",
     "dark_logo": "logo.png",
